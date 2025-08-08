@@ -5,8 +5,8 @@ class Bab1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Bab 4')),
-      body: Center(child: Text('Konten Bab 4')),
+      appBar: AppBar(title: Text('Bab 2')),
+      body: Center(child: Text('Konten Bab 2')),
     );
   }
 }
