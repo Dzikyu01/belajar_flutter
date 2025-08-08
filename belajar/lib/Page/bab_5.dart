@@ -1,7 +1,7 @@
 // bab_1.dart
 import 'package:flutter/material.dart';
 
-class Bab1 extends StatelessWidget {
+class Bab5 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
