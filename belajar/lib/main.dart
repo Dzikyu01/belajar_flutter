@@ -6,6 +6,10 @@ import 'page/bab_3.dart' as bab3;
 import 'page/bab_4.dart' as bab4;
 import 'page/bab_5_isi.dart' as bab5;
 import 'Page/bab_6.dart' as bab6;
+import 'page/bab_7.dart' as bab7;
+import 'page/bab_8.dart' as bab8;
+import 'page/bab_9.dart' as bab9;
+import 'page/bab_10.dart' as bab10;
 
 void main() {
   runApp(const MyApp());
@@ -149,6 +153,14 @@ class _BabSelectorState extends State<BabSelector> {
                     _buildBabButton(context, 'Bab 5', () => bab5.Bab5()),
                     const SizedBox(height: 12),
                     _buildBabButton(context, 'Bab 6', () => bab6.Bab6()),
+                    const SizedBox(height: 12),
+                    _buildBabButton(context, 'Bab 7', () => bab7.Bab7()),
+                    const SizedBox(height: 12),
+                    _buildBabButton(context, 'Bab 8', () => bab8.Bab8()),
+                    const SizedBox(height: 12),
+                    _buildBabButton(context, 'Bab 9', () => bab9.Bab9()),
+                    const SizedBox(height: 12),
+                    _buildBabButton(context, 'Bab 10', () => bab10.Bab10()),
                   ],
                 ),
               ),
