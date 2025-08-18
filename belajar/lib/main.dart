@@ -4,7 +4,7 @@ import 'page/bab_1.dart' as bab1;
 import 'page/bab_2.dart' as bab2;
 import 'page/bab_3.dart' as bab3;
 import 'page/bab_4.dart' as bab4;
-import 'page/bab_5_isi.dart' as bab5;
+import 'page/bab_5.dart' as bab5;
 import 'Page/bab_6.dart' as bab6;
 import 'page/bab_7.dart' as bab7;
 import 'page/bab_8.dart' as bab8;
