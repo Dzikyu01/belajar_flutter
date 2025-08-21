@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'page/bab_1.dart' as bab1;
-import 'page/bab_2.dart' as bab2;
-import 'page/bab_3.dart' as bab3;
-import 'page/bab_4.dart' as bab4;
-import 'page/bab_5.dart' as bab5;
+import 'Page/bab_1.dart' as bab1;
+import 'Page/bab_2.dart' as bab2;
+import 'Page/bab_3.dart' as bab3;
+import 'Page/bab_4.dart' as bab4;
+import 'Page/bab_5.dart' as bab5;
 import 'Page/bab_6.dart' as bab6;
-import 'page/bab_7.dart' as bab7;
-import 'page/bab_8.dart' as bab8;
-import 'page/bab_9.dart' as bab9;
-import 'page/bab_10.dart' as bab10;
+import 'Page/bab_7.dart' as bab7;
+import 'Page/bab_8.dart' as bab8;
+import 'Page/bab_9.dart' as bab9;
+import 'Page/bab_10.dart' as bab10;
 
 void main() {
   runApp(const MyApp());

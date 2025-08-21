@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'bab_6_data.dart'; // Import data foto
-import 'bab_6_detail.dart'; // Import halaman detail foto
+import 'bab_6_data.dart';
+import 'bab_6_detail.dart';
 
 class Bab6 extends StatelessWidget {
   const Bab6({super.key});
